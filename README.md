@@ -1,7 +1,7 @@
 # My Homelab Archive
 This repository contains documentation, configurations, and notes from projects I've built and experimented with for my homelab. It serves as both a technical reference and a record of everything that I do and have done.
 
-## Hardware Specs for _Eden_ (Homelab Server):
+### Hardware Specs for _Eden_ (Homelab Server)
 - Motherboard: ASRock B650M Pro RS
 - CPU: AMD Ryzen 9 7950X
 - RAM: Corsair 96GB (2 x 48GB) DDR5-6000MT UDIMM Kit
@@ -11,7 +11,7 @@ This repository contains documentation, configurations, and notes from projects 
 - Case: Rosewill L4500U 4U Server Chassis
 - OS: Proxmox VE 8.4.14
 
-## Hardware Specs for _Ultima_ (Custom Router)
+### Hardware Specs for _Ultima_ (Custom Router)
 - Motherboard: SuperMicro X10SDV-6C+-TLN4F
 - CPU: Intel Xeon D-1528
 - RAM: SK Hynix 32GB (2 x 16GB) DDR4-2400MT RDIMM Kit
@@ -20,3 +20,9 @@ This repository contains documentation, configurations, and notes from projects 
 - PSU: SuperMicro 5018A-FTN4 200W
 - Case: SuperMicro CSE-505-203B
 - OS: Proxmox VE 8.3.2
+
+### Networking:
+- TP-Link Omada SG2218 16-Port GbE Smart Switch
+- Cisco WS-C3560CG-8PC-S 8-Port GbE PoE+ Switch
+- TP-Link EAP670 V2 WiFi 6
+- TP-Link Deco M4 Home Mesh WiFi
